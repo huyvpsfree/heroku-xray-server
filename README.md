@@ -28,28 +28,25 @@
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyvpsfree/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
-   - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
-   - 🔻ᴛʜᴇ ʀᴇɢɪᴏɴ ʏᴏᴜ ꜱᴇʟᴇᴄᴛᴇᴅ ɪꜱ ʏᴏᴜʀ ᴠ2ʀᴀʏ ᴀᴄᴄᴏᴜɴᴛ ꜱᴇᴠᴇʀ.
 
-⭕ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ.https://www.uuidgenerator.net/
+ 
+   
+
+⭕ thay ID tại web.https://www.uuidgenerator.net/
 
 ______
 # ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ
+giao thức VLESS : ᴠʟᴇꜱꜱ
 
-- ᴅᴇꜰᴀᴜʟᴛ ᴘʀᴏᴛᴏᴄᴏʟ : ᴠʟᴇꜱꜱ
+ᴜᴜɪᴅ: ID mà bạn đã tạo
 
-- ᴜᴜɪᴅ: *ʏᴏᴜ ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
+ᴀᴅᴅʀᴇꜱꜱ: tên trang web mình đã tạo VD:ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
 
-- ᴀᴅᴅʀᴇꜱꜱ: ʏᴏᴜʀ ᴀᴘᴘɴᴀᴍᴇ.ʜᴇʀᴏᴋᴜᴀᴘᴘ.ᴄᴏᴍ
+ᴘᴏʀᴛ: 443
 
-- ᴘᴏʀᴛ: 443
+ᴘᴀᴛʜ: /
 
-- ᴘᴀᴛʜ: ᴋᴇᴇᴘ ᴛʜɪꜱ ᴇᴍᴘᴛʏ ᴏʀ /
+ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
 
-- ɴᴇᴛᴡᴏʀᴋ: ᴡꜱ
-_________
-### CREDIT
-Thanks To:
-- [teddysun](https://github.com/teddysun) For Main Repo
-- [iamtrazy](https://github.com/iamtrazy) For Heroku Deployable Repo
+4g free never
+-
