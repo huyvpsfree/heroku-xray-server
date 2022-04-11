@@ -12,17 +12,18 @@
 
 
 
-- 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/heshan2/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
-Click on fork and star buttons like this image☝️.
 
-___
-- ⚠️ᴘʟᴢ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ⚠️.
-___
+
+
+
+
+
+
+
 
 ⭕ ᴀꜰᴛᴇʀ ꜰᴏʀᴋᴇᴅ ᴄʟɪᴄᴋ ᴛʜɪꜱ.
-   - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
+
 
 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyvpsfree/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
